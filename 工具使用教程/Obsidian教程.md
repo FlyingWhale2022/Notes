@@ -26,6 +26,7 @@ time: 15:35
 - [[mousewheel image zoom插件]]
 - [[Quiet Outline插件]]
 - [[Remember cursor position 插件]]
+- [[画布插件 - excalidraw插件]]
 - [[Advanced URI插件]]
 
 

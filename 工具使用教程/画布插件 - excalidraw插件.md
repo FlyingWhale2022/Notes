@@ -19,13 +19,10 @@ excalidraw 的基本使用
 - 进入线段或者箭头的编辑状态，要通过“ctrl+双击”来实现
 - 进入编辑状态之后，通过“alt+单击”来创建结点
 
----
+
 [excalidraw手写中文字体支持](https://www.bilibili.com/video/BV1XZ4y1r7zQ?t=3.1)
 
 [[如何在excalidraw白板中嵌入 md 文件]]
-
-
-
 
 [excalidraw对手写的支持](https://www.bilibili.com/video/BV1Qh4y1F79i?t=1.2)
 
