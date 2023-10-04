@@ -9,12 +9,15 @@ time: 15:35
 
 [Android 端下载网址](https://mobile.softpedia.com/apk/obsidian)
 
-## Markdown 语法
+# Obsidian 主题
+
+
+# Markdown 语法
 
 - [[Markdown基本语法]]
 
 
-## 插件设置
+# 插件设置
 
 - [[Medai Extended插件-创建视频时间戳]]
 - [[Easy Typing插件]]
@@ -26,7 +29,7 @@ time: 15:35
 - [[Advanced URI插件]]
 
 
-## 功能设置
+# 功能设置
 
 - [[Obsidian的全局引用]]
 - [[Obsidian的搜索]]
