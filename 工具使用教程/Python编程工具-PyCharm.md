@@ -22,3 +22,10 @@ pip 安装 xlrd 报错
 pycharm 安装包失败
 
 [pycharm安装包失败 使用pip安装失败解决方案](https://blog.csdn.net/Edwinwzy/article/details/129762883)
+
+
+---
+
+Python pip 更新教程
+
+[Python pip 更新教程](https://blog.csdn.net/qq_42102911/article/details/128214206)
