@@ -35,18 +35,29 @@ Python pip 更新教程
 
 以安装 sympy 包为例
 
-参见解决方案： https://blog.csdn.net/zhang_xiaomeng/article/details/115050257
-
+[参见解决方案](https://blog.csdn.net/zhang_xiaomeng/article/details/115050257)
 
 - 解决方法二：
 
-参见解决方案： https://blog.csdn.net/Edwinwzy/article/details/129762883 
+[参见解决方案](https://blog.csdn.net/Edwinwzy/article/details/129762883 )
 
+---
 
+**未找到 Python 打包工具“setuptools”**
 
+[参见解决方案](https://www.saoniuhuo.com/question/detail-2459410.html)
 
+如果安装了 pip 在命令面板中执行以下命令:
 
+```shell
+pip install setuptools
+```
 
+---
+
+如何更换 python 解释器
+
+[[添加 python 解释器]]
 
 # Anaconda
 
