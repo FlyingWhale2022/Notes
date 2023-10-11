@@ -11,6 +11,11 @@ Python pip 更新教程
 
 [把Python添加到环境变量中](https://pythonjishu.com/path-add-python/)
 
+---
+
+多个 python 怎么用不同指令运行
+
+[多个 python 怎么用不同指令运行](https://www.cnblogs.com/ShineLeBlog/p/17438654.html)
 
 
 # PyCharm
