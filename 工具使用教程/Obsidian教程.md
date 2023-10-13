@@ -27,6 +27,7 @@ time: 15:35
 - [[Quiet Outline插件]]
 - [[Remember cursor position 插件]]
 - [[画布插件 - excalidraw插件]]
+- [[表情插件-Emoji Toolbar]]
 - [[Advanced URI插件]]
 
 
