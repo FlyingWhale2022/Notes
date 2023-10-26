@@ -9,6 +9,6 @@ aliases:
 
 [惩罚系数 C 的调整](https://www.bilibili.com/video/BV1vJ41187hk?t=1.1&p=56)
 
-
+![[数据挖掘-SVM-算法原理.pdf]]
 
 
