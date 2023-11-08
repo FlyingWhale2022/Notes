@@ -1,8 +1,8 @@
-
 ---
-tags: Zotero
+tags:
+  - Zotero
 aliases: 
-创建时间: 2023-08-19 00:09
+创建时间: 2023-09-13 16:52
 ---
 
 [Zotero translators翻译器介绍-知乎](https://zhuanlan.zhihu.com/p/485075766)

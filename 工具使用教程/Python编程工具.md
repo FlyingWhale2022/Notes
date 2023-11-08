@@ -1,4 +1,9 @@
-
+---
+tags:
+  - "#Python"
+aliases: 
+创建时间: 2023-10-05 15:13
+---
 # Python 安装与卸载
 
 🐳 如何安装 python

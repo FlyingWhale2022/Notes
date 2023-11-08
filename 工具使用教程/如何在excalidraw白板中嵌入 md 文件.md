@@ -1,5 +1,6 @@
 ---
-tags: Zotero
+tags:
+  - Obsidian
 aliases: 
 创建时间: 2023-08-30 19:40
 ---

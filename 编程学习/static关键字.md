@@ -1,8 +1,8 @@
-
 ---
-tags: C语言
+tags:
+  - C语言
 aliases: 
-创建时间: 2023-07-26 18:14
+创建时间: 2023-09-13 16:06
 ---
 
 ![](https://zbn-picture-1319009493.cos.ap-guangzhou.myqcloud.com/public-pic/202307261813792.png)

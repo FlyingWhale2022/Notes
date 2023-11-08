@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - typora
 aliases: 
 创建时间: 2023-09-16 17:39
 ---
