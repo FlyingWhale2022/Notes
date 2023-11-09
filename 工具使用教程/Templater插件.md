@@ -12,3 +12,5 @@ Templater 是一款为 Obsidian 提供模板功能的插件。
 
 [Templater-github 网址](https://github.com/SilentVoid13/Templater)
 
+
+🌟 “Templater：Jump to next cursor location”的快捷键设置为：Shift＋Enter
