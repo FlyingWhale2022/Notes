@@ -42,28 +42,29 @@ time: 15:35
 - [[Obsidian的同步与备份]]
 - [[Obsidian笔记备份至Github]]
 
-# 故障解决
+# 故障与诊断
 
-Front matter 消失，如下图所示：
+🐳 Front matter 消失，如下图所示：
 
 ![image.png|450](https://zbn-picture-1319009493.cos.ap-guangzhou.myqcloud.com/public-pic/202309031326991.png)
 
-解决方案：
+🌟 解决方案：
 
 ![image.png](https://zbn-picture-1319009493.cos.ap-guangzhou.myqcloud.com/public-pic/202309031327913.png)
 
 设置 -> 编辑器-> Properties in document 设置为：Source
 
 ---
-
-问题：图片上传图床之后，以链接的形式存放在文档中时，图片没有显示。
+🐳 问题：图片上传图床之后，以链接的形式存放在文档中时，图片没有显示。
 
 解决方案：
 - 网络不佳，换一个好一点的网络
 - 挂了梯子，要把梯子退出
 
+---
+🐳![[Easy Typing插件#故障与诊断]]
 
-
+---
 
 
 
