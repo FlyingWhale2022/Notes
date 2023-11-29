@@ -26,7 +26,7 @@ time: 15:35
 - [[Templater插件]]
 - [[mousewheel image zoom插件]]
 - [[Quiet Outline插件]]
-- [[Remember cursor position 插件]]
+- [[鼠标位置记忆插件-Remember cursor position 插件]]
 - [[画布插件 - excalidraw插件]]
 - [[表情插件-Emoji Toolbar]]
 - [[Advanced URI插件]]
