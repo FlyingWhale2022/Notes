@@ -24,11 +24,12 @@ time: 15:35
 - [[Easy Typing插件]]
 - [[Quickadd插件]]
 - [[Templater插件]]
-- [[mousewheel image zoom插件]]
+- [[图片缩放工具-mousewheel image zoom插件]]
 - [[Quiet Outline插件]]
 - [[鼠标位置记忆插件-Remember cursor position 插件]]
 - [[画布插件 - excalidraw插件]]
 - [[表情插件-Emoji Toolbar]]
+- [[大纲美化插件 - Quiet Outline]]
 - [[Advanced URI插件]]
 
 
