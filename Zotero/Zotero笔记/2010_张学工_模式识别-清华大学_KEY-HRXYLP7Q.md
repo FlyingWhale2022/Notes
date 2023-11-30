@@ -46,7 +46,7 @@
 > rights:: 
 > extra:: 🏷️ /reading、📒
 > collection:: [[专业课]]
-> tags:: #reading 
+> tags:: #reading
 > related:: 
 > itemLink:: [My Library](zotero://select/library/items/HRXYLP7Q)
 > pdfLink:: [模式识别-模式识别与机器学习（第四版） (张学工 汪小我) (Z-Library).pdf](zotero://open-pdf/library/items/Z9U6UWW9)
