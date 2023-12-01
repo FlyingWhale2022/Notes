@@ -9,9 +9,6 @@ time: 15:35
 
 [Android 端下载网址](https://mobile.softpedia.com/apk/obsidian)
 
-# Obsidian 主题
-
-
 # 内容编辑
 
 - [[Markdown基本语法]]
@@ -30,6 +27,8 @@ time: 15:35
 - [[画布插件 - excalidraw插件]]
 - [[表情插件-Emoji Toolbar]]
 - [[大纲美化插件 - Quiet Outline]]
+- [[图片编辑插件-Image Toolkit]]
+- [[表格编辑插件-Advanced Tables]]
 - [[Advanced URI插件]]
 
 
