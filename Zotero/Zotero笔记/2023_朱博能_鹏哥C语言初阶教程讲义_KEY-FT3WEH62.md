@@ -49,7 +49,7 @@
 > rights:: 
 > extra:: 🏷️ /reading、📒
 > collection:: [[编程书籍]]
-> tags:: #reading
+> tags:: #reading 
 > related:: 
 > itemLink:: [My Library](zotero://select/library/items/FT3WEH62)
 > pdfLink:: [2023_鹏哥C语言初阶教程讲义.pdf](zotero://open-pdf/library/items/3DBLXHYX)
