@@ -137,7 +137,7 @@
 ^KEYURQMQ5K7
 
 > <span class="image#e56eee"><img src="https://zbn-picture-1319009493.cos.ap-guangzhou.myqcloud.com/public-pic/202307261016046.png" width="800px"></span>  
-> printf("%s","he\\ny"); 的打印结果为heny ([p6](zotero://open-pdf/library/items/3DBLXHYX?page=6&annotation=5YRGASBE))
+> printf("%s","he\ny"); 的打印结果为heny ([p6](zotero://open-pdf/library/items/3DBLXHYX?page=6&annotation=5YRGASBE))
 
 ^KEY5YRGASBE
 
@@ -168,7 +168,7 @@
 
 > <span class="note" style="background-color: #e56eee50">note</span>  
 > 1、转义字符**是一个字符**而不是字符串。 如打印一个换行符：printf("%c",'\n');  
-> 2、`\0` 也是一个转义字符，是字符串的结束标志 ([p6](zotero://open-pdf/library/items/3DBLXHYX?page=6&annotation=42DHER2H))
+> 2、\`\0\` 也是一个转义字符，是字符串的结束标志 ([p6](zotero://open-pdf/library/items/3DBLXHYX?page=6&annotation=42DHER2H))
 
 ^KEY42DHER2H
 
