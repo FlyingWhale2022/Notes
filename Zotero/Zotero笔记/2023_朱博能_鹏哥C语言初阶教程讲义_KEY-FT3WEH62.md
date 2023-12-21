@@ -113,6 +113,46 @@
 
 ^KEY3VPZ2UG4
 
+> <span class="highlight" style="background-color: #e56eee50">全局变量</span>  
+> 全局变量就是定义在函数体外的变量 ([p3](zotero://open-pdf/library/items/3DBLXHYX?page=3&annotation=JI8SAVPG))
+
+^KEYJI8SAVPG
+
+> <span class="highlight" style="background-color: #e56eee50">当局部变量和全局变量同名的时候，局部变量优先使用</span> ([p3](zotero://open-pdf/library/items/3DBLXHYX?page=3&annotation=NSVU95ZU))
+
+^KEYNSVU95ZU
+
+> <span class="highlight" style="background-color: #e56eee50">局部变量的作用域是变量所在的局部范围</span>  
+> 局部范围是指：一对大括号内{} ([p4](zotero://open-pdf/library/items/3DBLXHYX?page=4&annotation=H3YFNCS2))
+
+^KEYH3YFNCS2
+
+> <span class="image#e56eee"><img src="https://zbn-picture1-1319009493.cos.ap-chengdu.myqcloud.com/public-pic/202312212216116.png" width="800px"></span>  
+> 标识符常量不仅可以是数字常量也可以是字符常量，如下：  
+> \# define max "asd" ([p4](zotero://open-pdf/library/items/3DBLXHYX?page=4&annotation=WB2YB9Q3))
+
+^KEYWB2YB9Q3
+
+> <span class="highlight" style="background-color: #ffd40050">比特主页：https://m.cctalk.com/inst/s9yewhfr</span> ([p4](zotero://open-pdf/library/items/3DBLXHYX?page=4&annotation=GPW3WG3B))
+
+^KEYGPW3WG3B
+
+> <span class="highlight" style="background-color: #ffd40050">s9yewhfr</span> ([p4](zotero://open-pdf/library/items/3DBLXHYX?page=4&annotation=X5Y8AFC5))
+
+^KEYX5Y8AFC5
+
+> <span class="highlight" style="background-color: #ffd40050">s9yewhfr</span> ([p4](zotero://open-pdf/library/items/3DBLXHYX?page=4&annotation=SZCZ5MZE))
+
+^KEYSZCZ5MZE
+
+> <span class="highlight" style="background-color: #ffd40050">s9yewhfr</span> ([p4](zotero://open-pdf/library/items/3DBLXHYX?page=4&annotation=6ZTVS6YK))
+
+^KEY6ZTVS6YK
+
+> <span class="highlight" style="background-color: #ffd40050">s9yewhfr</span> ([p4](zotero://open-pdf/library/items/3DBLXHYX?page=4&annotation=G34QZETB))
+
+^KEYG34QZETB
+
 > <span class="image#e56eee"><img src="https://zbn-picture-1319009493.cos.ap-guangzhou.myqcloud.com/public-pic/VE59KDWK.png" width="800px"></span>  
 > [[字符串结束标识符]] ([p5](zotero://open-pdf/library/items/3DBLXHYX?page=5&annotation=VE59KDWK))
 
