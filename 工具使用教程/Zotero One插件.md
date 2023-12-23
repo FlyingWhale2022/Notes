@@ -17,10 +17,15 @@ aliases:
 ![image.png](https://zbn-picture1-1319009493.cos.ap-chengdu.myqcloud.com/public-pic/202312211954888.png)
 
 
+🌐[详细的使用文档]( https://docs.qq.com/aio/DSVdxTkNyaFpTTWpL )
+
+![image.png](https://zbn-picture1-1319009493.cos.ap-chengdu.myqcloud.com/public-pic/202312221421126.png)
+
+
 ---
 🌟 如何学习使用这个插件：
 
-结合以上两个网站，然后插件内有很多提示
+结合以上网站，然后插件内有很多提示
 
 # 故障诊断
 
@@ -33,3 +38,10 @@ aliases:
 账户违规屏蔽，按照图片操作即可恢复
 
 ![a8ed43e70c17528763dc5f2253cfb19.jpg](https://zbn-picture1-1319009493.cos.ap-chengdu.myqcloud.com/public-pic/202312212102833.jpg)
+
+
+---
+🐳 问题：已经开启了“注释按钮”，但是当将左侧边栏从“注释栏”切换到“大纲栏”，再从“大纲栏”切换回“注释栏”的时候，“注释按钮”消失了，我又得从设置中重新开启“注释按钮”。
+
+
+解决方案：随便点另一个窗口再切换回来

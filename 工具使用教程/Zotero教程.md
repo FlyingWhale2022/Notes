@@ -33,6 +33,7 @@ aliases:
 - [[Zotero One插件|全能插件 - Zotero IF Pro Max]]
 - [[ZotFile插件|附件PDF管理插件 - ZotFile]]
 - [[知网文献批量导入插件-茉莉花插件]]
+- [[Zotero One插件]]
 
 
 
