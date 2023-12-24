@@ -245,6 +245,18 @@
 
 ^KEYZRNFEW4D
 
+> <span class="image#e56eee"><img src="https://zbn-picture1-1319009493.cos.ap-chengdu.myqcloud.com/public-pic/202312240337251.png" width="500px"></span>  
+> 观察下面这个程序，结果为死循环  
+> int i = 0;  
+>     int k = 0;  
+>     for (i = 0, k = 0; k = 1; i++, k++) {  
+>         k++;  
+>     }  
+> k=0，即表示for语句的判断结果为0，因此执行一次：  
+> k=1，即表示for语句的判断结果为1，因此执行无数次。 ([p38](zotero://open-pdf/library/items/3DBLXHYX?page=38&annotation=BTMXUZQ2))
+
+^KEYBTMXUZQ2
+
 > <span class="image#e56eee"><img src="https://zbn-picture-1319009493.cos.ap-guangzhou.myqcloud.com/public-pic/202307280942443.png" width="500px"></span>  
 > [[二分法查找]] ([p41](zotero://open-pdf/library/items/3DBLXHYX?page=41&annotation=N93KL2X6))
 
