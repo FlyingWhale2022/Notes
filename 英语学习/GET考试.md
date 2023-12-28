@@ -32,3 +32,20 @@ aliases:
 # 阅读理解
 
 ![image.png](https://zbn-picture1-1319009493.cos.ap-chengdu.myqcloud.com/public-pic/202312282122277.png)
+
+
+# 图表作文
+
+第一段：
+
+![image.png](https://zbn-picture1-1319009493.cos.ap-chengdu.myqcloud.com/public-pic/202312282339631.png)
+
+
+![image.png](https://zbn-picture1-1319009493.cos.ap-chengdu.myqcloud.com/public-pic/202312282303595.png)
+
+![image.png](https://zbn-picture1-1319009493.cos.ap-chengdu.myqcloud.com/public-pic/202312282306376.png)
+
+![image.png](https://zbn-picture1-1319009493.cos.ap-chengdu.myqcloud.com/public-pic/202312282321650.png)
+
+
+![image.png](https://zbn-picture1-1319009493.cos.ap-chengdu.myqcloud.com/public-pic/202312282338548.png)
