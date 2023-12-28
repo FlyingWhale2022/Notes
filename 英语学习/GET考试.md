@@ -5,6 +5,8 @@ aliases:
 创建时间: 2023-12-28 19:29
 ---
 
+[视频教程](https://www.bilibili.com/video/BV1yY411c7bn?t=274.0)
+
 ![image.png](https://zbn-picture1-1319009493.cos.ap-chengdu.myqcloud.com/public-pic/202312281929296.png)
 
 
@@ -20,3 +22,13 @@ aliases:
 
 
 最重要的一点是：相信自己的直觉，不要犹豫，不要怀疑自己，不要在这花费太多时间
+
+# 完形填空
+
+完整读完一个句子，再根据上下句来理解再作答。
+
+阅读时可以部分省略形容词、副词等修饰用的词，减少阅读量，快速抓住句子主要内容。
+
+# 阅读理解
+
+![image.png](https://zbn-picture1-1319009493.cos.ap-chengdu.myqcloud.com/public-pic/202312282122277.png)
