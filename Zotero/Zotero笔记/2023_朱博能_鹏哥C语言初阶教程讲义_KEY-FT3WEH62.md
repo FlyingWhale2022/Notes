@@ -344,6 +344,10 @@
 
 ^KEY6DDIZR5V
 
+> <span class="highlight" style="background-color: #e56eee50">接受一个或者多个操作数：第一个操作数是函数名，剩余的操作数就是传递给函数的参数。</span> ([p74](zotero://open-pdf/library/items/3DBLXHYX?page=74&annotation=2SRC7BPG))
+
+^KEY2SRC7BPG
+
 > <span class="highlight" style="background-color: #e56eee50">表达式中各种长度可能小于int长度的整型值，都必须先转 换为int或unsigned int，然后才能送入CPU去执行运算。</span>  
 > 整型提升 ([p75](zotero://open-pdf/library/items/3DBLXHYX?page=75&annotation=94F6H4II))
 
