@@ -92,19 +92,23 @@
 ^KEYrefTitle
 
 > <span class="image#e56eee"><img src="https://zbn-picture-1319009493.cos.ap-guangzhou.myqcloud.com/public-pic/202307251732413.png" width="500px"></span>  
+> 
 > 现在通常使用：C89和C90 ([p1](zotero://open-pdf/library/items/3DBLXHYX?page=1&annotation=8M3DRMLJ))
 
 ^KEY8M3DRMLJ
 
 > <span class="highlight" style="background-color: #e56eee50">int main()</span>  
-> 1、void main()  是一个很老的写法，不采用  
-> 2、int main(void) 这种写法也可以，强调是无参的  
+> 1、void main()  是一个很老的写法，不采用
+> 
+> 2、int main(void) 这种写法也可以，强调是无参的
+> 
 > 3、C语言规定，main()函数是程序的入口，因此有且只有一个。 ([p2](zotero://open-pdf/library/items/3DBLXHYX?page=2&annotation=AR69QGX6))
 
 ^KEYAR69QGX6
 
 > <span class="highlight" style="background-color: #e56eee50">return 0</span>  
-> 返回0：表示程序正常运行  
+> 返回0：表示程序正常运行
+> 
 > 返回1：表示程序异常中断 ([p2](zotero://open-pdf/library/items/3DBLXHYX?page=2&annotation=UFGFQ295))
 
 ^KEYUFGFQ295
@@ -128,12 +132,15 @@
 ^KEYH3YFNCS2
 
 > <span class="image#e56eee"><img src="https://zbn-picture1-1319009493.cos.ap-chengdu.myqcloud.com/public-pic/202312212216116.png" width="500px"></span>  
-> 标识符常量不仅可以是数字常量也可以是字符常量，如下：  
+> 
+> 标识符常量不仅可以是数字常量也可以是字符常量，如下：
+> 
 > \# define max "asd" ([p4](zotero://open-pdf/library/items/3DBLXHYX?page=4&annotation=WB2YB9Q3))
 
 ^KEYWB2YB9Q3
 
 > <span class="image#e56eee"><img src="https://zbn-picture-1319009493.cos.ap-guangzhou.myqcloud.com/public-pic/VE59KDWK.png" width="500px"></span>  
+> 
 > [[字符串结束标识符]] ([p5](zotero://open-pdf/library/items/3DBLXHYX?page=5&annotation=VE59KDWK))
 
 ^KEYVE59KDWK
@@ -157,6 +164,7 @@
 ^KEYURQMQ5K7
 
 > <span class="image#e56eee"><img src="https://zbn-picture-1319009493.cos.ap-guangzhou.myqcloud.com/public-pic/202307261016046.png" width="500px"></span>  
+> 
 > printf("%s","he\ny"); 的打印结果为heny ([p6](zotero://open-pdf/library/items/3DBLXHYX?page=6&annotation=5YRGASBE))
 
 ^KEY5YRGASBE
@@ -174,95 +182,126 @@
 ^KEYEAVQID5F
 
 > <span class="highlight" style="background-color: #e56eee50">\ddd d d d表示1~3个八进制的数字。 如： \130 表示字符X</span>  
-> \130 中的130是八进制，转换为十进制为88 ，对应的ASCII码为'X'。  
-> 因此，printf("%c\n",\130); 输出的结果为 X  
+> \130 中的130是八进制，转换为十进制为88 ，对应的ASCII码为'X'。
+> 
+> 因此，printf("%c\n",\130); 输出的结果为 X
+> 
 > 需要注意的是，八进制转换为十进制后，**不能超过ASCII码的的范围：0~127** ([p6](zotero://open-pdf/library/items/3DBLXHYX?page=6&annotation=GFYKF92P))
 
 ^KEYGFYKF92P
 
 > <span class="highlight" style="background-color: #e56eee50">\xdd d d表示2个十六进制数字。 如： \x30 表示字符0</span>  
-> \x30中的x30是十六进制，转换为十进制为48 ，对应的ASCII码为'0'。因此，printf("%c\n",\x30); 输出的结果为 0  
+> \x30中的x30是十六进制，转换为十进制为48 ，对应的ASCII码为'0'。因此，printf("%c\n",\x30); 输出的结果为 0
+> 
 > 需要注意的是，十六进制转换为十进制后，不能超过ASCII码的的范围：0~127 ([p6](zotero://open-pdf/library/items/3DBLXHYX?page=6&annotation=S44VN3F7))
 
 ^KEYS44VN3F7
 
 > <span class="note" style="background-color: #e56eee50">note</span>  
-> 1、转义字符**是一个字符**而不是字符串。 如打印一个换行符：printf("%c",'\n');  
+> 1、转义字符**是一个字符**而不是字符串。 如打印一个换行符：printf("%c",'\n');
+> 
 > 2、\`\0\` 也是一个转义字符，是字符串的结束标志 ([p6](zotero://open-pdf/library/items/3DBLXHYX?page=6&annotation=42DHER2H))
 
 ^KEY42DHER2H
 
 > <span class="image#e56eee"><img src="https://zbn-picture-1319009493.cos.ap-guangzhou.myqcloud.com/public-pic/202307261032411.png" width="500px"></span>  
-> 为什么不是 \628 解析为转义字符？  
+> 
+> 为什么不是 \628 解析为转义字符？
+> 
 > 因为628不是一个八进制数。 ([p7](zotero://open-pdf/library/items/3DBLXHYX?page=7&annotation=QLM887RL))
 
 ^KEYQLM887RL
 
 > <span class="image#e56eee"><img src="https://zbn-picture-1319009493.cos.ap-guangzhou.myqcloud.com/public-pic/202307261645406.png" width="500px"></span>  
-> C++中的三目运算符返回的是变量；  
-> C中的三目运算符返回的是值；  
+> 
+> C++中的三目运算符返回的是变量；
+> 
+> C中的三目运算符返回的是值；
+> 
 > 见：[[C++基础入门#4.1.2 三目运算符]] ([p12](zotero://open-pdf/library/items/3DBLXHYX?page=12&annotation=RY4ERNEY))
 
 ^KEYRY4ERNEY
 
 > <span class="image#e56eee"><img src="https://zbn-picture-1319009493.cos.ap-guangzhou.myqcloud.com/public-pic/202307261716420.png" width="500px"></span>  
+> 
 > [[逗号表达式]] ([p12](zotero://open-pdf/library/items/3DBLXHYX?page=12&annotation=3M2EFV7S))
 
 ^KEY3M2EFV7S
 
 > <span class="image#e56eee"><img src="https://zbn-picture-1319009493.cos.ap-guangzhou.myqcloud.com/public-pic/202307261813792.png" width="500px"></span>  
+> 
 > [[static关键字]] ([p13](zotero://open-pdf/library/items/3DBLXHYX?page=13&annotation=C2MAMTNP))
 
 ^KEYC2MAMTNP
 
 > <span class="image#e56eee"><img src="https://zbn-picture-1319009493.cos.ap-guangzhou.myqcloud.com/public-pic/202307262204031.png" width="500px"></span>  
-> 结构：  
+> 
+> 结构：
+> 
 > \# define 宏名(宏参数1，宏参数2，……) (宏体) ([p15](zotero://open-pdf/library/items/3DBLXHYX?page=15&annotation=ZSAIC73E))
 
 ^KEYZSAIC73E
 
 > <span class="image#e56eee"><img src="https://zbn-picture-1319009493.cos.ap-guangzhou.myqcloud.com/public-pic/202307262233741.png" width="500px"></span>  
-> 写法错误，else语句应该放在第一个if语句的{}里面。  
+> 
+> 写法错误，else语句应该放在第一个if语句的{}里面。
+> 
 > else是和它离的最近的if匹配的。 ([p25](zotero://open-pdf/library/items/3DBLXHYX?page=25&annotation=TJ58DCDI))
 
 ^KEYTJ58DCDI
 
 > <span class="image#e56eee"><img src="https://zbn-picture-1319009493.cos.ap-guangzhou.myqcloud.com/public-pic/202307262306365.png" width="500px"></span>  
+> 
 > 当continue用在for循环体时，虽然 continue 后边的代码不会再执行，但for循环体中的自增语句（调整语句）仍然会执行，不然就成死循环。 ([p33](zotero://open-pdf/library/items/3DBLXHYX?page=33&annotation=6HRXDUC7))
 
 ^KEY6HRXDUC7
 
 > <span class="image#e56eee"><img src="https://zbn-picture-1319009493.cos.ap-guangzhou.myqcloud.com/public-pic/202307270908501.png" width="500px"></span>  
-> 这个程序的结果时进入死循环。  
+> 
+> 这个程序的结果时进入死循环。
+> 
 > **注意**：for循环的判断部分省略意味这判断会**恒成立** ([p37](zotero://open-pdf/library/items/3DBLXHYX?page=37&annotation=6HMX9YDD))
 
 ^KEY6HMX9YDD
 
 > <span class="image#e56eee"><img src="https://zbn-picture-1319009493.cos.ap-guangzhou.myqcloud.com/public-pic/202307270910489.png" width="500px"></span>  
-> 代码2结果为打印100个"hehe"  
-> 代码3的结果为打印10个"hehe"  
+> 
+> 代码2结果为打印100个"hehe"
+> 
+> 代码3的结果为打印10个"hehe"
+> 
 > 因此for循环体中尽量不要省略初始化部分，容易出错 ([p37](zotero://open-pdf/library/items/3DBLXHYX?page=37&annotation=ZRNFEW4D))
 
 ^KEYZRNFEW4D
 
 > <span class="image#e56eee"><img src="https://zbn-picture1-1319009493.cos.ap-chengdu.myqcloud.com/public-pic/202312240337251.png" width="500px"></span>  
-> 观察下面这个程序，结果为死循环  
-> int i = 0;  
->     int k = 0;  
->     for (i = 0, k = 0; k = 1; i++, k++) {  
->         k++;  
->     }  
-> k=0，即表示for语句的判断结果为0，因此执行一次：  
+> 
+> 观察下面这个程序，结果为死循环
+> 
+> int i = 0;
+> 
+>     int k = 0;
+> 
+>     for (i = 0, k = 0; k = 1; i++, k++) {
+> 
+>         k++;
+> 
+>     }
+> 
+> k=0，即表示for语句的判断结果为0，因此执行一次：
+> 
 > k=1，即表示for语句的判断结果为1，因此执行无数次。 ([p38](zotero://open-pdf/library/items/3DBLXHYX?page=38&annotation=BTMXUZQ2))
 
 ^KEYBTMXUZQ2
 
 > <span class="image#e56eee"><img src="https://zbn-picture-1319009493.cos.ap-guangzhou.myqcloud.com/public-pic/202307280942443.png" width="500px"></span>  
+> 
 > [[二分法查找]] ([p41](zotero://open-pdf/library/items/3DBLXHYX?page=41&annotation=N93KL2X6))
 
 ^KEYN93KL2X6
 
 > <span class="image#e56eee"><img src="https://zbn-picture-1319009493.cos.ap-guangzhou.myqcloud.com/public-pic/202307281646226.png" width="500px"></span>  
+> 
 > [[函数递归]] ([p53](zotero://open-pdf/library/items/3DBLXHYX?page=53&annotation=K9U22CQB))
 
 ^KEYK9U22CQB
@@ -278,23 +317,29 @@
 ^KEY8QVSQHNN
 
 > <span class="image#e56eee"><img src="https://zbn-picture-1319009493.cos.ap-guangzhou.myqcloud.com/public-pic/202308031125223.png" width="500px"></span>  
+> 
 > 注意：无论是左移还是右移都**不会改变操作数自身的值** ([p66](zotero://open-pdf/library/items/3DBLXHYX?page=66&annotation=AGLNI5VD))
 
 ^KEYAGLNI5VD
 
 > <span class="image#e56eee"><img src="https://zbn-picture-1319009493.cos.ap-guangzhou.myqcloud.com/public-pic/202308031104142.png" width="500px"></span>  
-> 算术右移：算术右移是指在对带符号整数进行右移操作时，最高位（最左边位，即符号位）保持不变，而低位补0。这样可以保持带符号整数的符号位不变。算术右移一般用于有符号整数的右移操作。  
-> 逻辑右移：逻辑右移是指在对带符号整数进行右移操作时，所有位都向右移动，并用0填充左侧空出的位，忽略符号位。逻辑右移不考虑符号位，所以对于有符号整数来说，逻辑右移可能会导致符号位改变，从而得到不正确的结果。  
+> 
+> 算术右移：算术右移是指在对带符号整数进行右移操作时，最高位（最左边位，即符号位）保持不变，而低位补0。这样可以保持带符号整数的符号位不变。算术右移一般用于有符号整数的右移操作。
+> 
+> 逻辑右移：逻辑右移是指在对带符号整数进行右移操作时，所有位都向右移动，并用0填充左侧空出的位，忽略符号位。逻辑右移不考虑符号位，所以对于有符号整数来说，逻辑右移可能会导致符号位改变，从而得到不正确的结果。
+> 
 > 在大多数编程语言中，**针对有符号整数的右移操作使用算术右移，而对于无符号整数则使用逻辑右移。**这样可以确保正确处理带符号数的右移操作，保持其符号不变。 ([p67](zotero://open-pdf/library/items/3DBLXHYX?page=67&annotation=HJLU72YQ))
 
 ^KEYHJLU72YQ
 
 > <span class="image#e56eee"><img src="https://zbn-picture-1319009493.cos.ap-guangzhou.myqcloud.com/public-pic/202308022009569.png" width="500px"></span>  
+> 
 > [[位操作符]] ([p68](zotero://open-pdf/library/items/3DBLXHYX?page=68&annotation=KG6LJU9C))
 
 ^KEYKG6LJU9C
 
 > <span class="image#e56eee"><img src="https://zbn-picture-1319009493.cos.ap-guangzhou.myqcloud.com/public-pic/202308022011775.png" width="500px"></span>  
+> 
 > [[“按位与”和“逻辑与”以及“按位或”和“逻辑或”之间的比较]] ([p72](zotero://open-pdf/library/items/3DBLXHYX?page=72&annotation=6DDIZR5V))
 
 ^KEY6DDIZR5V
