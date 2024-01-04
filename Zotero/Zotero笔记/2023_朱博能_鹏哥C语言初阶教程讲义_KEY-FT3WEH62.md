@@ -401,3 +401,11 @@
 
 ^KEYB6932HIQ
 
+> <span class="image#e56eee"><img src="https://zbn-picture1-1319009493.cos.ap-chengdu.myqcloud.com/public-pic/202401032347248.png" width="500px"></span>  
+> 
+> Debug调试版本可以进行一步一步地调试
+> 
+> Release发布版本是可以交付给用户使用的版本，没有调试信息，不能一步一步地调试 ([p101](zotero://open-pdf/library/items/3DBLXHYX?page=101&annotation=EFVMVTX3))
+
+^KEYEFVMVTX3
+
