@@ -1,10 +1,10 @@
-# 野火《STM32 HAL库开发实战指南—F103系列》
+# [野火]《STM32 HAL库开发实战指南—F103系列》
 > [!info]+ <center>Metadata</center>
 > 
 > |<div style="width: 5em">Key</div>|Value|
 > |--:|:--|
 > |文献类型|document|
-> |标题|野火《STM32 HAL库开发实战指南—F103系列》|
+> |标题|[野火]《STM32 HAL库开发实战指南—F103系列》|
 > |短标题||
 > |作者|[[野火]]|
 > |期刊名称||
@@ -30,7 +30,7 @@
 > [!tldr]- <center>隐藏信息</center>
 > 
 > itemType:: document
-> title:: 野火《STM32 HAL库开发实战指南—F103系列》
+> title:: [野火]《STM32 HAL库开发实战指南—F103系列》
 > shortTitle:: 
 > creators:: [[野火]]
 > publicationTitle:: 
@@ -53,7 +53,7 @@
 > related:: 
 > itemLink:: [My Library](zotero://select/library/items/YDX94YM2)
 > pdfLink:: [《STM32 HAL库开发实战指南—F103系列》.pdf](zotero://open-pdf/library/items/IJ8YWVGJ)
-> qnkey:: 野火_野火《STM32 HAL库开发实战指南—F103系列》_KEY-YDX94YM2
+> qnkey:: 野火_[野火]《STM32 HAL库开发实战指南—F103系列》_KEY-YDX94YM2
 > date:: NaN
 > dateY:: undefined
 > dateAdded:: 2024-01-03
@@ -87,7 +87,7 @@
 
 ## 📝 注释笔记 IJ8YWVGJ
 
-> <span style="font-size: 15px;color: gray">📍 undefined-野火-野火《STM32 HAL库开发实战指南—F103系列》</span>
+> <span style="font-size: 15px;color: gray">📍 undefined-野火-[野火]《STM32 HAL库开发实战指南—F103系列》</span>
 
 ^KEYrefTitle
 
