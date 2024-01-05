@@ -98,3 +98,23 @@
 
 ^KEY5EGXYXJ4
 
+> <span class="image#e56eee"><img src="https://zbn-picture1-1319009493.cos.ap-chengdu.myqcloud.com/public-pic/202401050946303.png" width="500px"></span>  
+> 
+> 提供一个时钟给单片机，相当于人的心跳 ([p58](zotero://open-pdf/library/items/IJ8YWVGJ?page=58&annotation=DNT7N38Z))
+
+^KEYDNT7N38Z
+
+> <span class="image#e56eee"><img src="https://zbn-picture1-1319009493.cos.ap-chengdu.myqcloud.com/public-pic/202401050948958.png" width="500px"></span>  
+> 
+> GPIO通用输入输出引脚（端口） ([p58](zotero://open-pdf/library/items/IJ8YWVGJ?page=58&annotation=6CMKZAMT))
+
+^KEY6CMKZAMT
+
+> <span class="highlight" style="background-color: #e56eee50">数据手册主要用于芯片选型和设计原理图时参考，参考手册主要用于在编程的时 候查阅。</span> ([p59](zotero://open-pdf/library/items/IJ8YWVGJ?page=59&annotation=28J9XAMS))
+
+^KEY28J9XAMS
+
+> <span class="highlight" style="background-color: #e56eee50">芯片四周是引脚，左下角的小圆点表示 1 脚，然后从 1 脚起按照逆时针的顺序排列（所有芯片的 引脚顺序都是逆时针排列的）。开发板中把芯片的引脚引出来，连接到其他各种芯片上（比如传 感器），然后在 STM32 上编程（实际就是通过程序控制这些引脚输出高电平或者低电平）来控制 其他芯片工作，通过做实验的方式来学习 STM32 芯片的各个资源</span> ([p62](zotero://open-pdf/library/items/IJ8YWVGJ?page=62&annotation=K4H7TKH6))
+
+^KEYK4H7TKH6
+
