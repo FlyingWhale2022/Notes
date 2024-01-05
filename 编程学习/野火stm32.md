@@ -6,3 +6,5 @@ aliases:
 ---
 
 [野火论坛](https://www.firebbs.cn/)
+
+[stm 官方社区](https://www.stmcu.org.cn/)
