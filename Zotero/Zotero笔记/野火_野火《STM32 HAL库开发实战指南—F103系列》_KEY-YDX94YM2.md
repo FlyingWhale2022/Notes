@@ -114,6 +114,11 @@
 
 ^KEY28J9XAMS
 
+> <span class="highlight" style="background-color: #e56eee50">5.1 什么是寄存器</span>  
+> 即外设的地址 ([p62](zotero://open-pdf/library/items/IJ8YWVGJ?page=62&annotation=BXFLCIIK))
+
+^KEYBXFLCIIK
+
 > <span class="highlight" style="background-color: #e56eee50">芯片四周是引脚，左下角的小圆点表示 1 脚，然后从 1 脚起按照逆时针的顺序排列（所有芯片的 引脚顺序都是逆时针排列的）。开发板中把芯片的引脚引出来，连接到其他各种芯片上（比如传 感器），然后在 STM32 上编程（实际就是通过程序控制这些引脚输出高电平或者低电平）来控制 其他芯片工作，通过做实验的方式来学习 STM32 芯片的各个资源</span> ([p62](zotero://open-pdf/library/items/IJ8YWVGJ?page=62&annotation=K4H7TKH6))
 
 ^KEYK4H7TKH6
