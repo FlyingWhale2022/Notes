@@ -9,3 +9,7 @@ aliases:
 
 [注册破解教程](https://www.sunev.cn/downloads/729.html)
 
+[配置运行环境](https://www.bilibili.com/video/BV18X4y1M763?t=327.8&p=9)
+
+- CMSIS 微控制器软件接口标准
+- 启动文件
