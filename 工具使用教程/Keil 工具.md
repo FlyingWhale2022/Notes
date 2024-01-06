@@ -13,3 +13,5 @@ aliases:
 
 - CMSIS 微控制器软件接口标准
 - 启动文件
+
+[keil 卸载](https://blog.csdn.net/xuangelouzhu/article/details/122893669)
