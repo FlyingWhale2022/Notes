@@ -13,7 +13,7 @@
 > |馆藏目录||
 > |索书号||
 > |版权||
-> |分类|[[编程书籍]]|
+> |分类|[[编程书籍, C语言]]|
 > |条目链接|[My Library](zotero://select/library/items/FT3WEH62)|
 > |PDF 附件|[2023_鹏哥C语言初阶教程讲义.pdf](zotero://open-pdf/library/items/3DBLXHYX)|
 > |关联文献||
@@ -48,8 +48,8 @@
 > callNumber:: 
 > rights:: 
 > extra:: 🏷️ /reading、📒
-> collection:: [[编程书籍]]
-> tags:: #reading 
+> collection:: [[编程书籍, C语言]]
+> tags:: #reading
 > related:: 
 > itemLink:: [My Library](zotero://select/library/items/FT3WEH62)
 > pdfLink:: [2023_鹏哥C语言初阶教程讲义.pdf](zotero://open-pdf/library/items/3DBLXHYX)
