@@ -16,4 +16,6 @@ aliases:
 
 [同时安装mdk和c51](https://blog.csdn.net/m0_73994912/article/details/129734540)
 
+> 该方法还未验证，不知道是否能成功
+
 [keil 卸载](https://blog.csdn.net/xuangelouzhu/article/details/122893669)
