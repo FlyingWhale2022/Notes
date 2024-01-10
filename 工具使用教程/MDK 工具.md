@@ -14,4 +14,6 @@ aliases:
 - CMSIS 微控制器软件接口标准
 - 启动文件
 
+[同时安装mdk和c51](https://blog.csdn.net/m0_73994912/article/details/129734540)
+
 [keil 卸载](https://blog.csdn.net/xuangelouzhu/article/details/122893669)
