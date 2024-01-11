@@ -111,6 +111,10 @@
 
 ^KEY2RPS2AVJ
 
+> <span class="highlight" style="background-color: #e56eee50">TI：发送中断标志位。在方式 0 时，当串行发送第 8 位数据结束时，或在其 它方式，串行发送停止位的开始时，由内部硬件使 TI 置 1，向 CPU 发中断申请。 在中断服务程序中，必须用软件将其清 0，取消此中断申请。</span> ([p260](zotero://open-pdf/library/items/PCCHG2XB?page=260&annotation=PCDMREX6))
+
+^KEYPCDMREX6
+
 > <span class="highlight" style="background-color: #e56eee50">RI：接收中断标志位。在方式 0 时，当串行接收第 8 位数据结束时，或在其 它方式，串行接收停止位的中间时，由内部硬件使 RI 置 1，向 CPU 发中断申请。 也必须在中断服务程序中，用软件将其清 0，取消此中断申请。</span> ([p260](zotero://open-pdf/library/items/PCCHG2XB?page=260&annotation=3E4YV68R))
 
 ^KEY3E4YV68R
