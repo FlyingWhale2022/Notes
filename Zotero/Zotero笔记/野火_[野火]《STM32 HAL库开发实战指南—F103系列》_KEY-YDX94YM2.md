@@ -13,7 +13,7 @@
 > |馆藏目录||
 > |索书号||
 > |版权||
-> |分类|[[编程书籍, stm32]]|
+> |分类|[[编程书籍]]、[[stm32]]|
 > |条目链接|[My Library](zotero://select/library/items/YDX94YM2)|
 > |PDF 附件|[《STM32 HAL库开发实战指南—F103系列》.pdf](zotero://open-pdf/library/items/IJ8YWVGJ)|
 > |关联文献||
@@ -38,7 +38,7 @@
 > volume:: 
 > issue:: 
 > pages:: 
-> language:: ch
+> language:: zh
 > DOI:: 
 > ISSN:: 
 > url:: 
@@ -48,7 +48,7 @@
 > callNumber:: 
 > rights:: 
 > extra:: 🏷️ /reading、📒
-> collection:: [[编程书籍, stm32]]
+> collection:: [[编程书籍]]、[[stm32]]
 > tags:: #reading
 > related:: 
 > itemLink:: [My Library](zotero://select/library/items/YDX94YM2)
@@ -57,7 +57,7 @@
 > date:: NaN
 > dateY:: undefined
 > dateAdded:: 2024-01-03
-> dateModified:: 2024-01-04
+> dateModified:: 2024-01-10
 > 
 > abstract:: 
 
