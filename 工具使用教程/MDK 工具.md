@@ -19,3 +19,5 @@ aliases:
 > 该方法还未验证，不知道是否能成功
 
 [keil 卸载](https://blog.csdn.net/xuangelouzhu/article/details/122893669)
+
+[MDK 与 Vscode 联动](https://blog.csdn.net/m0_74528010/article/details/133240923)
