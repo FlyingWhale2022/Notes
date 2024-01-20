@@ -105,3 +105,9 @@
 
 ^KEYNFVRE7B9
 
+> <span class="image#e56eee"><img src="https://zbn-picture1-1319009493.cos.ap-chengdu.myqcloud.com/public-pic/202401200026160.png" width="500px"></span>  
+> 
+> ”输出控制“内部有一个反相器 ([p20](zotero://open-pdf/library/items/E486GH3W?page=20&annotation=PE9UARVM))
+
+^KEYPE9UARVM
+
