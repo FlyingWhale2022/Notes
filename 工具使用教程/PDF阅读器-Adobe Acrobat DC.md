@@ -7,6 +7,4 @@ aliases:
 
 [Adobe Acrobat DC 背景颜色设置](https://blog.csdn.net/fisherish/article/details/124443000)
 
-[Adobe Acrobat Pro DC 设置记忆单页/双页滚动]()
-
-[微信，是一个生活方式 (qq.com)](https://weixin.qq.com/)
+[Adobe Acrobat Pro DC设置记忆单页/双页滚动](https://zhuanlan.zhihu.com/p/650948562?utm_id=0)
