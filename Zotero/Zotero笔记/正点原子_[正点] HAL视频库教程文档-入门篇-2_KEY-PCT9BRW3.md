@@ -1,10 +1,10 @@
-# [正点] HAL视频库教程文档-入门篇
+# [正点] HAL视频库教程文档-入门篇-2
 > [!info]+ <center>Metadata</center>
 > 
 > |<div style="width: 5em">Key</div>|Value|
 > |--:|:--|
 > |文献类型|document|
-> |标题|[正点] HAL视频库教程文档-入门篇|
+> |标题|[正点] HAL视频库教程文档-入门篇-2|
 > |短标题||
 > |作者|[[正点原子]]|
 > |期刊名称||
@@ -30,7 +30,7 @@
 > [!tldr]- <center>隐藏信息</center>
 > 
 > itemType:: document
-> title:: [正点] HAL视频库教程文档-入门篇
+> title:: [正点] HAL视频库教程文档-入门篇-2
 > shortTitle:: 
 > creators:: [[正点原子]]
 > publicationTitle:: 
@@ -53,7 +53,7 @@
 > related:: 
 > itemLink:: [My Library](zotero://select/library/items/PCT9BRW3)
 > pdfLink:: [入门篇.pdf](zotero://open-pdf/library/items/E486GH3W)
-> qnkey:: 正点原子_[正点] HAL视频库教程文档-入门篇_KEY-PCT9BRW3
+> qnkey:: 正点原子_[正点] HAL视频库教程文档-入门篇-2_KEY-PCT9BRW3
 > date:: NaN
 > dateY:: undefined
 > dateAdded:: 2024-01-18
@@ -81,13 +81,13 @@
 
 > [!inbox]- <center>📫 导入时间</center>
 >
-> ⏰ importDate:: 2024-01-19
+> ⏰ importDate:: 2024-01-26
 
 %--------------ω--------------%
 
 ## 📝 注释笔记 E486GH3W
 
-> <span style="font-size: 15px;color: gray">📍 undefined-正点原子-[正点] HAL视频库教程文档-入门篇</span>
+> <span style="font-size: 15px;color: gray">📍 undefined-正点原子-[正点] HAL视频库教程文档-入门篇-2</span>
 
 ^KEYrefTitle
 
