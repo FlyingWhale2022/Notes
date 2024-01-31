@@ -181,7 +181,7 @@
 > <span class="image#e56eee"><img src="https://zbn-picture-1319009493.cos.ap-guangzhou.myqcloud.com/public-pic/202307261645406.png" width="800px"></span>  
 > C++中的三目运算符返回的是变量；  
 > C中的三目运算符返回的是值；  
-> 见：[[C++基础入门#4.1.2 三目运算符]] ([p12](zotero://open-pdf/library/items/3DBLXHYX?page=12&annotation=RY4ERNEY))
+> 见：[[C++笔记#4.1.2 三目运算符]] ([p12](zotero://open-pdf/library/items/3DBLXHYX?page=12&annotation=RY4ERNEY))
 
 ^KEYRY4ERNEY
 
