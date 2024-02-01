@@ -11854,7 +11854,7 @@ bool myCompare(T& a, T& b)
 }
 
 
-//具体化，显示具体化的原型和定意思以template<>开头，并通过名称来指出类型
+//具体化，显式具体化以 template<>开头，并通过名称来指出类型
 //具体化优先于常规模板
 template<> bool myCompare(Person &p1, Person &p2)
 {
@@ -12122,7 +12122,7 @@ class MyClass
 public:
 	T obj;
 
-	//类模板中的成员函数，并不是一开始就创建的，而是在模板调用时再生成
+	//类模板中的成员函数，并不是一开始就创建的，而是在模板调用该函数时再生成
 
 	void fun1() { obj.showPerson1(); }
 	void fun2() { obj.showPerson2(); }
@@ -15061,7 +15061,7 @@ int main() {
 
 
 
-**概念：**stack 是一种**先进后出**(First In Last Out, FILO)的数据结构，它只有一个出口
+**概念：** stack 是一种**先进后出**(First In Last Out, FILO)的数据结构，它只有一个出口
 
 
 
