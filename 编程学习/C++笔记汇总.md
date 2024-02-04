@@ -13819,7 +13819,7 @@ int main() {
 }
 ```
 
-**总结：**vector 的多种构造方式没有可比性，灵活使用即可
+**总结：** vector 的多种构造方式没有可比性，灵活使用即可
 
 
 
@@ -13844,7 +13844,7 @@ int main() {
 * `vector& operator=(const vector &vec);` //重载等号操作符
 
 
-* `assign(beg, end);`       //将[beg, end)区间中的数据拷贝赋值给本身。
+* `assign(beg, end);`       //将\[beg, end)区间中的数据拷贝赋值给本身。
 * `assign(n, elem);`        //将 n 个 elem 拷贝赋值给本身。
 
 
@@ -18951,7 +18951,7 @@ int main() {
 }
 ```
 
-**总结：**reverse 反转区间内元素，面试题可能涉及到
+**总结：** reverse 反转区间内元素，面试题可能涉及到
 
 
 
