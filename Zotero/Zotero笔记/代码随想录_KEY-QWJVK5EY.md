@@ -47,7 +47,7 @@
 > libraryCatalog:: 
 > callNumber:: 
 > rights:: 
-> extra:: 🏷️ /reading、/unread、📒
+> extra:: 🏷️ /reading、/unread、📒、📝 重点
 > collection:: [[数据结构]]
 > tags:: #reading #unread 
 > related:: 
@@ -57,7 +57,7 @@
 > date:: NaN
 > dateY:: undefined
 > dateAdded:: 2024-02-28
-> dateModified:: 2024-02-28
+> dateModified:: 2024-03-01
 > 
 > abstract:: 
 
@@ -257,9 +257,21 @@
 
 ^KEY5YTEGA4W
 
-> <span class="image#e56eee"><img src="https://zbn-picture1-1319009493.cos.ap-chengdu.myqcloud.com/public-pic/TM5JDA4G.png" width="500px"></span> ([p108](zotero://open-pdf/library/items/ULGSFCFW?page=108&annotation=TM5JDA4G))
+> <span class="image#e56eee">null</span>想想为什么只能从后开始遍历？
+> 
+> 当从前面开始遍历时，可能有些空格删不掉（想想连续三个空格的，然后从前面开始遍历的情况） ([p108](zotero://open-pdf/library/items/ULGSFCFW?page=108&annotation=42NZSAJF))
 
-^KEYTM5JDA4G
+^KEY42NZSAJF
+
+> <span class="highlight" style="background-color: #e56eee50">⼀个erase本来就是O(n)的操作</span> ([p109](zotero://open-pdf/library/items/ULGSFCFW?page=109&annotation=94SA83I3))  
+> 🏷️ #📝/重点
+
+^KEY94SA83I3
+
+> <span class="highlight" style="background-color: #e56eee50">使⽤双指针法来去移除空格，最后resize（重新设置）⼀下字符串的⼤⼩</span> ([p109](zotero://open-pdf/library/items/ULGSFCFW?page=109&annotation=6Q45C7AC))  
+> 🏷️ #📝/重点
+
+^KEY6Q45C7AC
 
 > <span class="highlight" style="background-color: #e56eee50">使⽤栈来模式队列的⾏为，如果仅仅⽤⼀个栈，是⼀定不⾏的，所以需要两个栈⼀个输⼊栈，⼀个输出栈，这⾥要 注意输⼊栈和输出栈的关系。</span>  
 > 核心思想：使用输入栈和输出栈来实现队列 ([p187](zotero://open-pdf/library/items/ULGSFCFW?page=187&annotation=DW4YIWUP))
