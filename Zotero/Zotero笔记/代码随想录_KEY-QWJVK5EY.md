@@ -91,25 +91,30 @@
 
 ^KEYrefTitle
 
-> <span class="highlight" style="background-color: #f1983750">3. 移除元素</span> ([p9](zotero://open-pdf/library/items/ULGSFCFW?page=9&annotation=83WDLQLR))  
+> <span class="highlight" style="background-color: #f19837">3. 移除元素</span> ([p9](zotero://open-pdf/library/items/ULGSFCFW?page=9&annotation=83WDLQLR))
+> 
 > 🏷️ #📝/标题
 
 ^KEY83WDLQLR
 
-> <span class="highlight" style="background-color: #e56eee50">双指针法</span>  
+> <span class="highlight" style="background-color: #e56eee">双指针法</span>
+> 
 > 双指针法可以完成数组元素的删除和填充：
 > 
 > 1、当需要删除元素时，双指针从数组头部开始遍历；
 > 
-> 2、当需要填充元素时，双指针从数组尾部开始遍历； ([p11](zotero://open-pdf/library/items/ULGSFCFW?page=11&annotation=8GGHGEV7))  
+> 2、当需要填充元素时，双指针从数组尾部开始遍历； ([p11](zotero://open-pdf/library/items/ULGSFCFW?page=11&annotation=8GGHGEV7))
+> 
 > 🏷️ #📝/重点
 
 ^KEY8GGHGEV7
 
-> <span class="highlight" style="background-color: #e56eee50">定义快慢指针 快指针：寻找新数组的元素 ，新数组就是不含有⽬标元素的数组 慢指针：指向更新 新数组下标的位置</span>  
+> <span class="highlight" style="background-color: #e56eee">定义快慢指针 快指针：寻找新数组的元素 ，新数组就是不含有⽬标元素的数组 慢指针：指向更新 新数组下标的位置</span>
+> 
 > 同相双指针法中快慢指针的作用。
 > 
-> 注：同相双指针法不会改变数组元素的相对位置 ([p11](zotero://open-pdf/library/items/ULGSFCFW?page=11&annotation=B7VFQKBZ))  
+> 注：同相双指针法不会改变数组元素的相对位置 ([p11](zotero://open-pdf/library/items/ULGSFCFW?page=11&annotation=B7VFQKBZ))
+> 
 > 🏷️ #📝/重点
 
 ^KEYB7VFQKBZ
@@ -118,24 +123,51 @@
 
 ^KEYSGTHMDJE
 
-> <span class="highlight" style="background-color: #e56eee50">leftIndex <= rightIndex</span>  
+> <span class="highlight" style="background-color: #e56eee">找左边等于val的元素</span> ([p13](zotero://open-pdf/library/items/ULGSFCFW?page=13&annotation=8ELSTY79))
+> 
+> 🏷️ #📝/重点
+
+^KEY8ELSTY79
+
+> <span class="highlight" style="background-color: #e56eee">leftIndex <= rightIndex</span>
+> 
 > 为什么要有一个等号？
 > 
-> 当没有等号时，leftIndex 和 rightIndex 最终会停留在 leftIndex == rightIndex 的位置。设想一下，如果该位置 ([p13](zotero://open-pdf/library/items/ULGSFCFW?page=13&annotation=QJUIIWHL))  
+> 当没有等号时，leftIndex 和 rightIndex 最终会停留在 leftIndex == rightIndex 的位置，会漏掉最后一个元素没有判断。因为最后 return 的是 leftindex ，设想一下，如果该位置是等于val的元素，不会出错；如果该位置是不等于val的元素，则出错。 ([p13](zotero://open-pdf/library/items/ULGSFCFW?page=13&annotation=QJUIIWHL))
+> 
 > 🏷️ #📝/重点
 
 ^KEYQJUIIWHL
 
-> <span class="highlight" style="background-color: #e56eee50">移除链表元素</span>  
+> <span class="highlight" style="background-color: #e56eee">找右边不等于val的元素</span> ([p13](zotero://open-pdf/library/items/ULGSFCFW?page=13&annotation=TIKCTSAN))
+> 
+> 🏷️ #📝/重点
+
+^KEYTIKCTSAN
+
+> <span class="highlight" style="background-color: #e56eee">将右边不等于val的元素覆盖左边等于val的元素</span> ([p13](zotero://open-pdf/library/items/ULGSFCFW?page=13&annotation=XKVL23H8))
+> 
+> 🏷️ #📝/重点
+
+^KEYXKVL23H8
+
+> <span class="highlight" style="background-color: #e56eee">leftIndex⼀定指向了最终数组末尾的下⼀个元素</span> ([p13](zotero://open-pdf/library/items/ULGSFCFW?page=13&annotation=SCI5YVB8))
+> 
+> 🏷️ #📝/重点
+
+^KEYSCI5YVB8
+
+> <span class="highlight" style="background-color: #e56eee">移除链表元素</span>
+> 
 > 移除链表中的某个节点都要找到该节点的**前一个**节点。 ([p32](zotero://open-pdf/library/items/ULGSFCFW?page=32&annotation=TEIHXTHI))
 
 ^KEYTEIHXTHI
 
-> <span class="highlight" style="background-color: #e56eee50">可以设置⼀个虚拟头结点，这样原链表的所有节点就都可以按照统⼀的⽅式进⾏移除了</span> ([p34](zotero://open-pdf/library/items/ULGSFCFW?page=34&annotation=TSMR7BZ4))
+> <span class="highlight" style="background-color: #e56eee">可以设置⼀个虚拟头结点，这样原链表的所有节点就都可以按照统⼀的⽅式进⾏移除了</span> ([p34](zotero://open-pdf/library/items/ULGSFCFW?page=34&annotation=TSMR7BZ4))
 
 ^KEYTSMR7BZ4
 
-> <span class="highlight" style="background-color: #e56eee50">最后呢在题⽬中，return 头结点的时候，别忘了 return dummyNode->next; ， 这才是新的头结点 直接使⽤原来的链表来进⾏移除节点操作</span> ([p35](zotero://open-pdf/library/items/ULGSFCFW?page=35&annotation=E3CDIXNS))
+> <span class="highlight" style="background-color: #e56eee">最后呢在题⽬中，return 头结点的时候，别忘了 return dummyNode->next; ， 这才是新的头结点 直接使⽤原来的链表来进⾏移除节点操作</span> ([p35](zotero://open-pdf/library/items/ULGSFCFW?page=35&annotation=E3CDIXNS))
 
 ^KEYE3CDIXNS
 
@@ -157,7 +189,8 @@
 
 ^KEY5E6VASKR
 
-> <span class="highlight" style="background-color: #e56eee50">// 在第index个节点之前插⼊⼀个新节点，例如index为0，那么新插⼊的节点为链表的新头节点。 // 如果index 等于链表的⻓度，则说明是新插⼊的节点为链表的尾结点</span>  
+> <span class="highlight" style="background-color: #e56eee">// 在第index个节点之前插⼊⼀个新节点，例如index为0，那么新插⼊的节点为链表的新头节点。 // 如果index 等于链表的⻓度，则说明是新插⼊的节点为链表的尾结点</span>
+> 
 > 这两个是同一种情况：
 > 
 > 1、当index为0，则在第一个节点前面插入新的节点；
@@ -168,12 +201,14 @@
 
 ^KEYS9U7F4P5
 
-> <span class="highlight" style="background-color: #e56eee50">_size++;</span>  
+> <span class="highlight" style="background-color: #e56eee">_size++;</span>
+> 
 > 插入新节点后，链表的长度要加1 ([p39](zotero://open-pdf/library/items/ULGSFCFW?page=39&annotation=HQH9V796))
 
 ^KEYHQH9V796
 
-> <span class="highlight" style="background-color: #e56eee50">⾸先定义⼀个cur指针，指向头结点，再定义⼀个pre指针，初始化为null。 然后就要开始反转了，⾸先要把 cur->next 节点⽤tmp指针保存⼀下，也就是保存⼀下这个节点。 为什么要保存⼀下这个节点呢，因为接下来要改变 cur->next 的指向了，将cur->next 指向pre ，此时已经反转了 第⼀个节点了。 接下来，就是循环⾛如下代码逻辑了，继续移动pre和cur指针。 最后，cur 指针已经指向了null，循环结束，链表也反转完毕了。 此时我们return pre指针就可以了，pre指针就指 向了新的头结点。</span>  
+> <span class="highlight" style="background-color: #e56eee">⾸先定义⼀个cur指针，指向头结点，再定义⼀个pre指针，初始化为null。 然后就要开始反转了，⾸先要把 cur->next 节点⽤tmp指针保存⼀下，也就是保存⼀下这个节点。 为什么要保存⼀下这个节点呢，因为接下来要改变 cur->next 的指向了，将cur->next 指向pre ，此时已经反转了 第⼀个节点了。 接下来，就是循环⾛如下代码逻辑了，继续移动pre和cur指针。 最后，cur 指针已经指向了null，循环结束，链表也反转完毕了。 此时我们return pre指针就可以了，pre指针就指 向了新的头结点。</span>
+> 
 > 这里其实用到了三个指针 ([p42](zotero://open-pdf/library/items/ULGSFCFW?page=42&annotation=DE8BQ2HW))
 
 ^KEYDE8BQ2HW
@@ -186,7 +221,8 @@
 
 ^KEYEC5UFKTQ
 
-> <span class="highlight" style="background-color: #e56eee50">建议使⽤虚拟头结点，这样会⽅便很多，要不然每次针对头结点（没有前⼀个指针指向头结点），还要单独处理。</span>  
+> <span class="highlight" style="background-color: #e56eee">建议使⽤虚拟头结点，这样会⽅便很多，要不然每次针对头结点（没有前⼀个指针指向头结点），还要单独处理。</span>
+> 
 > 使用头节点的原因：
 > 
 > 1、非头节点都需要找到该节点的前一个节点进行断开操作，而头节点不需要，因此头节点需要单独处理。
@@ -195,21 +231,24 @@
 
 ^KEYX5NU2QE3
 
-> <span class="highlight" style="background-color: #e56eee50">ListNode* tmp = cur->next; // 记录临时节点</span>  
+> <span class="highlight" style="background-color: #e56eee">ListNode* tmp = cur->next; // 记录临时节点</span>
+> 
 > 一开始并不知道要记录哪些临时节点，因此可以先交换，在交换的过程中去看哪些节点需要临时记录。 ([p47](zotero://open-pdf/library/items/ULGSFCFW?page=47&annotation=A8EN8G4J))
 
 ^KEYA8EN8G4J
 
-> <span class="highlight" style="background-color: #e56eee50">fast⾸先⾛n + 1步 ，为什么是n+1呢，因为只有这样同时移动的时候slow才能指向删除节点的上⼀个节点 （⽅便做删除操作），如图：</span>  
+> <span class="highlight" style="background-color: #e56eee">fast⾸先⾛n + 1步 ，为什么是n+1呢，因为只有这样同时移动的时候slow才能指向删除节点的上⼀个节点 （⽅便做删除操作），如图：</span>
+> 
 > 删除某个节点必须找到该节点的上一个节点 ([p50](zotero://open-pdf/library/items/ULGSFCFW?page=50&annotation=KXC8T75C))
 
 ^KEYKXC8T75C
 
-> <span class="highlight" style="background-color: #e56eee50">交点不是数值相等，⽽是指针相等</span> ([p55](zotero://open-pdf/library/items/ULGSFCFW?page=55&annotation=K473CFXW))
+> <span class="highlight" style="background-color: #e56eee">交点不是数值相等，⽽是指针相等</span> ([p55](zotero://open-pdf/library/items/ULGSFCFW?page=55&annotation=K473CFXW))
 
 ^KEYK473CFXW
 
-> <span class="highlight" style="background-color: #e56eee50">我们求出两个链表的⻓度，并求出两个链表⻓度的差值，然后让curA移动到，和curB 末尾对⻬的位置，如图：</span>  
+> <span class="highlight" style="background-color: #e56eee">我们求出两个链表的⻓度，并求出两个链表⻓度的差值，然后让curA移动到，和curB 末尾对⻬的位置，如图：</span>
+> 
 > 核心操作 ([p55](zotero://open-pdf/library/items/ULGSFCFW?page=55&annotation=95CAVDRV))
 
 ^KEY95CAVDRV
@@ -218,12 +257,14 @@
 
 ^KEYZYNGKHCD
 
-> <span class="highlight" style="background-color: #e56eee50">// 让curA为最⻓链表的头，lenA为其⻓度</span>  
+> <span class="highlight" style="background-color: #e56eee">// 让curA为最⻓链表的头，lenA为其⻓度</span>
+> 
 > 技巧，使程序变得简单 ([p56](zotero://open-pdf/library/items/ULGSFCFW?page=56&annotation=NRVTD5XW))
 
 ^KEYNRVTD5XW
 
-> <span class="highlight" style="background-color: #e56eee50">可以使⽤快慢指针法，分别定义 fast 和 slow 指针，从头结点出发，fast指针每次移动两个节点，slow指针每次移 动⼀个节点</span>  
+> <span class="highlight" style="background-color: #e56eee">可以使⽤快慢指针法，分别定义 fast 和 slow 指针，从头结点出发，fast指针每次移动两个节点，slow指针每次移 动⼀个节点</span>
+> 
 > 解题思路：设置快慢指针
 > 
 > 注意：fast指针每次移动只比slow指针多移动一个节点，不然fast指针会跳过slow指针。 ([p58](zotero://open-pdf/library/items/ULGSFCFW?page=58&annotation=KSBM6CWK))
@@ -234,34 +275,40 @@
 
 ^KEYAAKFVJTT
 
-> <span class="highlight" style="background-color: #e56eee50">x = (n - 1) (y + z) + z</span>  
+> <span class="highlight" style="background-color: #e56eee">x = (n - 1) (y + z) + z</span>
+> 
 > 由距离关系得到 x 和 z 之间的关系 ([p60](zotero://open-pdf/library/items/ULGSFCFW?page=60&annotation=6GRRDWLE))
 
 ^KEY6GRRDWLE
 
-> <span class="highlight" style="background-color: #e56eee50">从头结点出发⼀个指针，从相遇节点 也出发⼀个指针，这两个指针每次只⾛⼀个节点， 那么当这两 个指针相遇的时候就是 环形⼊⼝的节点</span>  
+> <span class="highlight" style="background-color: #e56eee">从头结点出发⼀个指针，从相遇节点 也出发⼀个指针，这两个指针每次只⾛⼀个节点， 那么当这两 个指针相遇的时候就是 环形⼊⼝的节点</span>
+> 
 > n=1 时，找到环形入口节点的方法 ([p60](zotero://open-pdf/library/items/ULGSFCFW?page=60&annotation=F6WZKRM5))
 
 ^KEYF6WZKRM5
 
-> <span class="highlight" style="background-color: #e56eee50">那么 n如果⼤于1是什么情况呢，就是fast指针在环形转n圈之后才遇到 slow指针。 其实这种情况和n为1的时候 效果是⼀样的，⼀样可以通过这个⽅法找到 环形的⼊⼝节点，只不过，index1 指针在 环⾥ 多转了(n-1)圈，然后再遇到index2，相遇点依然是环形的⼊⼝节点。</span>  
+> <span class="highlight" style="background-color: #e56eee">那么 n如果⼤于1是什么情况呢，就是fast指针在环形转n圈之后才遇到 slow指针。 其实这种情况和n为1的时候 效果是⼀样的，⼀样可以通过这个⽅法找到 环形的⼊⼝节点，只不过，index1 指针在 环⾥ 多转了(n-1)圈，然后再遇到index2，相遇点依然是环形的⼊⼝节点。</span>
+> 
 > n>1 时，找到环形入口节点的方法 ([p61](zotero://open-pdf/library/items/ULGSFCFW?page=61&annotation=N3DIT3RK))
 
 ^KEYN3DIT3RK
 
-> <span class="highlight" style="background-color: #e56eee50">在推理过程中，⼤家可能有⼀个疑问就是：为什么第⼀次在环中相遇，slow的 步数 是 x+y ⽽不是 x + 若⼲环的⻓ 度 + y 呢？</span>  
+> <span class="highlight" style="background-color: #e56eee">在推理过程中，⼤家可能有⼀个疑问就是：为什么第⼀次在环中相遇，slow的 步数 是 x+y ⽽不是 x + 若⼲环的⻓ 度 + y 呢？</span>
+> 
 > 解释 “slow的 步数 是 x+y ⽽不是 x + 若⼲环的⻓ 度 + y？ ”
 > 
 > 原因在于fast指针移动速度是slow指针的两倍 ([p62](zotero://open-pdf/library/items/ULGSFCFW?page=62&annotation=L32CRTEX))
 
 ^KEYL32CRTEX
 
-> <span class="highlight" style="background-color: #e56eee50">对于字符串，我们定义两个指针（也可以说是索引下标），⼀个从字符串前⾯，⼀个从字符串后⾯，两个指针同时 向中间移动，并交换元素。</span>  
+> <span class="highlight" style="background-color: #e56eee">对于字符串，我们定义两个指针（也可以说是索引下标），⼀个从字符串前⾯，⼀个从字符串后⾯，两个指针同时 向中间移动，并交换元素。</span>
+> 
 > 反转字符串的思路 ([p100](zotero://open-pdf/library/items/ULGSFCFW?page=100&annotation=J6AZZ94N))
 
 ^KEYJ6AZZ94N
 
-> <span class="highlight" style="background-color: #e56eee50">其实在遍历字符串的过程中，只要让 i += (2 * k)，i 每次移动 2 * k 就可以了，然后判断是否需要有反转的区间。 因为要找的也就是每2 * k 区间的起点，这样写，程序会⾼效很多。</span>  
+> <span class="highlight" style="background-color: #e56eee">其实在遍历字符串的过程中，只要让 i += (2 * k)，i 每次移动 2 * k 就可以了，然后判断是否需要有反转的区间。 因为要找的也就是每2 * k 区间的起点，这样写，程序会⾼效很多。</span>
+> 
 > 技巧 ([p103](zotero://open-pdf/library/items/ULGSFCFW?page=103&annotation=RB755Y6V))
 
 ^KEYRB755Y6V
@@ -280,7 +327,7 @@
 
 ^KEYK6WGZYBC
 
-> <span class="highlight" style="background-color: #e56eee50">⾸先扩充数组到每个空格替换成"%20"之后的⼤⼩。 然后从后向前替换空格，也就是双指针法，过程如下： i指向新⻓度的末尾，j指向旧⻓度的末尾。</span> ([p105](zotero://open-pdf/library/items/ULGSFCFW?page=105&annotation=BQIJWPXK))
+> <span class="highlight" style="background-color: #e56eee">⾸先扩充数组到每个空格替换成"%20"之后的⼤⼩。 然后从后向前替换空格，也就是双指针法，过程如下： i指向新⻓度的末尾，j指向旧⻓度的末尾。</span> ([p105](zotero://open-pdf/library/items/ULGSFCFW?page=105&annotation=BQIJWPXK))
 
 ^KEYBQIJWPXK
 
@@ -288,7 +335,8 @@
 
 ^KEY2FVER8LT
 
-> <span class="highlight" style="background-color: #f1983750">4.翻转字符串⾥的单词</span> ([p107](zotero://open-pdf/library/items/ULGSFCFW?page=107&annotation=4F6DA2FR))  
+> <span class="highlight" style="background-color: #f19837">4.翻转字符串⾥的单词</span> ([p107](zotero://open-pdf/library/items/ULGSFCFW?page=107&annotation=4F6DA2FR))
+> 
 > 🏷️ #📝/标题
 
 ^KEY4F6DA2FR
@@ -299,31 +347,76 @@
 
 > <span class="image#e56eee">null</span>想想为什么只能从后开始遍历？
 > 
-> 当从前面开始遍历时，可能有些空格删不掉（想想连续三个空格的，然后从前面开始遍历的情况） ([p108](zotero://open-pdf/library/items/ULGSFCFW?page=108&annotation=42NZSAJF))
+> 当从前面开始遍历时，可能有些空格删不掉（想想连续三个空格的情况，然后从前面开始遍历的情况） ([p108](zotero://open-pdf/library/items/ULGSFCFW?page=108&annotation=42NZSAJF))
 
 ^KEY42NZSAJF
 
-> <span class="highlight" style="background-color: #e56eee50">⼀个erase本来就是O(n)的操作</span> ([p109](zotero://open-pdf/library/items/ULGSFCFW?page=109&annotation=94SA83I3))  
+> <span class="highlight" style="background-color: #e56eee">{</span> ([p108](zotero://open-pdf/library/items/ULGSFCFW?page=108&annotation=E4UJNPDK))
+> 
+> 🏷️ #📝/重点
+
+^KEYE4UJNPDK
+
+> <span class="highlight" style="background-color: #e56eee">⼀个erase本来就是O(n)的操作</span> ([p109](zotero://open-pdf/library/items/ULGSFCFW?page=109&annotation=94SA83I3))
+> 
 > 🏷️ #📝/重点
 
 ^KEY94SA83I3
 
-> <span class="highlight" style="background-color: #e56eee50">使⽤双指针法来去移除空格，最后resize（重新设置）⼀下字符串的⼤⼩</span> ([p109](zotero://open-pdf/library/items/ULGSFCFW?page=109&annotation=6Q45C7AC))  
+> <span class="highlight" style="background-color: #e56eee">使⽤双指针法来去移除空格，最后resize（重新设置）⼀下字符串的⼤⼩</span> ([p109](zotero://open-pdf/library/items/ULGSFCFW?page=109&annotation=6Q45C7AC))
+> 
 > 🏷️ #📝/重点
 
 ^KEY6Q45C7AC
 
-> <span class="highlight" style="background-color: #e56eee50">使⽤栈来模式队列的⾏为，如果仅仅⽤⼀个栈，是⼀定不⾏的，所以需要两个栈⼀个输⼊栈，⼀个输出栈，这⾥要 注意输⼊栈和输出栈的关系。</span>  
+> <span class="highlight" style="background-color: #e56eee">去掉字符串前⾯的空格</span> ([p109](zotero://open-pdf/library/items/ULGSFCFW?page=109&annotation=JF5S63PB))
+> 
+> 🏷️ #📝/重点
+
+^KEYJF5S63PB
+
+> <span class="highlight" style="background-color: #e56eee">去掉字符串中间部分的冗余空格</span> ([p109](zotero://open-pdf/library/items/ULGSFCFW?page=109&annotation=CTBUFYU8))
+> 
+> 🏷️ #📝/重点
+
+^KEYCTBUFYU8
+
+> <span class="image#e56eee">null</span>快指针用于获取新数组的元素，这里的 if 可以用 while 代替 ([p109](zotero://open-pdf/library/items/ULGSFCFW?page=109&annotation=3KA885NH))
+
+^KEY3KA885NH
+
+> <span class="highlight" style="background-color: #e56eee">null</span>
+> 
+> 处理思路：只将单词拷贝到slow处（空格跳过），并手动在非首单词前面加一个空格。 ([p110](zotero://open-pdf/library/items/ULGSFCFW?page=110&annotation=QPPK7UEZ))
+
+^KEYQPPK7UEZ
+
+> <span class="image#e56eee">null</span>说明遇到一个单词 ([p110](zotero://open-pdf/library/items/ULGSFCFW?page=110&annotation=G6AFPSBR))
+
+^KEYG6AFPSBR
+
+> <span class="image#e56eee">null</span>判断这个单词是不是首个单词，如果不是，则在该单词的前面手动添加一个空格。 ([p110](zotero://open-pdf/library/items/ULGSFCFW?page=110&annotation=4JB2ZEWX))
+
+^KEY4JB2ZEWX
+
+> <span class="image#e56eee">null</span>在slow处补充该单词 ([p110](zotero://open-pdf/library/items/ULGSFCFW?page=110&annotation=UVLYB3UL))
+
+^KEYUVLYB3UL
+
+> <span class="highlight" style="background-color: #e56eee">使⽤栈来模式队列的⾏为，如果仅仅⽤⼀个栈，是⼀定不⾏的，所以需要两个栈⼀个输⼊栈，⼀个输出栈，这⾥要 注意输⼊栈和输出栈的关系。</span>
+> 
 > 核心思想：使用输入栈和输出栈来实现队列 ([p187](zotero://open-pdf/library/items/ULGSFCFW?page=187&annotation=DW4YIWUP))
 
 ^KEYDW4YIWUP
 
-> <span class="highlight" style="background-color: #e56eee50">在push数据的时候，只要数据放进输⼊栈就好，但在pop的时候，操作就复杂⼀些，输出栈如果为空，就把进栈数 据全部导⼊进来（注意是全部导⼊），再从出栈弹出数据，如果输出栈不为空，则直接从出栈弹出数据就可以了。</span>  
+> <span class="highlight" style="background-color: #e56eee">在push数据的时候，只要数据放进输⼊栈就好，但在pop的时候，操作就复杂⼀些，输出栈如果为空，就把进栈数 据全部导⼊进来（注意是全部导⼊），再从出栈弹出数据，如果输出栈不为空，则直接从出栈弹出数据就可以了。</span>
+> 
 > 具体实现 ([p188](zotero://open-pdf/library/items/ULGSFCFW?page=188&annotation=4K387YBF))
 
 ^KEY4K387YBF
 
-> <span class="highlight" style="background-color: #e56eee50">会发现pop() 和 peek()两个函数功能类似</span>  
+> <span class="highlight" style="background-color: #e56eee">会发现pop() 和 peek()两个函数功能类似</span>
+> 
 > 需要进行和pop() 一样的处理，因此可以先将顶元素弹出取值，再将首元素push进输出栈，如下条笔记所示。 ([p188](zotero://open-pdf/library/items/ULGSFCFW?page=188&annotation=49K2RNFS))
 
 ^KEY49K2RNFS
@@ -332,52 +425,62 @@
 
 ^KEYKSZT58WP
 
-> <span class="highlight" style="background-color: #e56eee50">⽤两个队列que1和que2实现队列的功能，que2其实完全就是⼀个备份的作⽤，把que1最后⾯ 的元素以外的元素都备份到que2，然后弹出最后⾯的元素，再把其他元素从que2导回que1。</span>  
+> <span class="highlight" style="background-color: #e56eee">⽤两个队列que1和que2实现队列的功能，que2其实完全就是⼀个备份的作⽤，把que1最后⾯ 的元素以外的元素都备份到que2，然后弹出最后⾯的元素，再把其他元素从que2导回que1。</span>
+> 
 > 用两个队列实现栈操作的核心原理 ([p191](zotero://open-pdf/library/items/ULGSFCFW?page=191&annotation=C5MVDYF5))
 
 ^KEYC5MVDYF5
 
-> <span class="highlight" style="background-color: #e56eee50">⼀个队列在模拟栈弹出元素的时候只要将队列头部的元素（除了最后⼀个元素外） 重新添加到队列尾部，此时再去 弹出元素就是栈的顺序了。</span>  
+> <span class="highlight" style="background-color: #e56eee">⼀个队列在模拟栈弹出元素的时候只要将队列头部的元素（除了最后⼀个元素外） 重新添加到队列尾部，此时再去 弹出元素就是栈的顺序了。</span>
+> 
 > 用一个队列实现栈操作的核心原理 ([p192](zotero://open-pdf/library/items/ULGSFCFW?page=192&annotation=H3JXS28P))
 
 ^KEYH3JXS28P
 
-> <span class="highlight" style="background-color: #e56eee50">第⼀种情况：已经遍历完了字符串，但是栈不为空，说明有相应的左括号没有右括号来匹配，所以return false 第⼆种情况：遍历字符串匹配的过程中，发现栈⾥没有要匹配的字符。所以return false 第三种情况：遍历字符串匹配的过程中，栈已经为空了，没有匹配的字符了，说明右括号没有找到对应的左括号 return false</span>  
+> <span class="highlight" style="background-color: #e56eee">第⼀种情况：已经遍历完了字符串，但是栈不为空，说明有相应的左括号没有右括号来匹配，所以return false 第⼆种情况：遍历字符串匹配的过程中，发现栈⾥没有要匹配的字符。所以return false 第三种情况：遍历字符串匹配的过程中，栈已经为空了，没有匹配的字符了，说明右括号没有找到对应的左括号 return false</span>
+> 
 > 括号匹配失败的三种情况 ([p196](zotero://open-pdf/library/items/ULGSFCFW?page=196&annotation=T84H3563))
 
 ^KEYT84H3563
 
-> <span class="highlight" style="background-color: #e56eee50">但还有⼀些技巧，在匹配左括号的时候，右括号先⼊栈，就只需要⽐较当前元素和栈顶相不相等就可以了，⽐左括 号先⼊栈代码实现要简单的多了！</span>  
+> <span class="highlight" style="background-color: #e56eee">但还有⼀些技巧，在匹配左括号的时候，右括号先⼊栈，就只需要⽐较当前元素和栈顶相不相等就可以了，⽐左括 号先⼊栈代码实现要简单的多了！</span>
+> 
 > 很重要的一个技巧 ([p196](zotero://open-pdf/library/items/ULGSFCFW?page=196&annotation=7W4MEKAY))
 
 ^KEY7W4MEKAY
 
-> <span class="highlight" style="background-color: #e56eee50">if (st.empty() || st.top() != s[i]) return false;</span>  
+> <span class="highlight" style="background-color: #e56eee">if (st.empty() || st.top() != s[i]) return false;</span>
+> 
 > 这个if判断条件中，需要将“st.empty()”放在“ st.top() != s[i]”前面，防止空栈操作 ([p197](zotero://open-pdf/library/items/ULGSFCFW?page=197&annotation=VBNBFI88))
 
 ^KEYVBNBFI88
 
-> <span class="highlight" style="background-color: #e56eee50">st.pop(); // st.top() 与 s[i]相等，栈弹出元素</span>  
+> <span class="highlight" style="background-color: #e56eee">st.pop(); // st.top() 与 s[i]相等，栈弹出元素</span>
+> 
 > 这步容易忘记造成出错 ([p197](zotero://open-pdf/library/items/ULGSFCFW?page=197&annotation=5DLCMLRF))
 
 ^KEY5DLCMLRF
 
-> <span class="highlight" style="background-color: #e56eee50">适合⽤栈操作运算：遇到数字则⼊栈；遇到运算符则取出栈顶两个数字进⾏计算，并将结果压⼊栈中。</span>  
+> <span class="highlight" style="background-color: #e56eee">适合⽤栈操作运算：遇到数字则⼊栈；遇到运算符则取出栈顶两个数字进⾏计算，并将结果压⼊栈中。</span>
+> 
 > 解释“逆波兰表达式” ([p201](zotero://open-pdf/library/items/ULGSFCFW?page=201&annotation=7NFUD7CK))
 
 ^KEY7NFUD7CK
 
-> <span class="highlight" style="background-color: #e56eee50">stoll(tokens[i])</span>  
+> <span class="highlight" style="background-color: #e56eee">stoll(tokens[i])</span>
+> 
 > 该函数能将字符串类型转换为对应的long long类型 ([p202](zotero://open-pdf/library/items/ULGSFCFW?page=202&annotation=N6PV5787))
 
 ^KEYN6PV5787
 
-> <span class="highlight" style="background-color: #e56eee50">队列⾥的元素⼀定是要排序的，⽽且要最⼤值放在出队⼝</span>  
+> <span class="highlight" style="background-color: #e56eee">队列⾥的元素⼀定是要排序的，⽽且要最⼤值放在出队⼝</span>
+> 
 > 需要的构造队列的特点 ([p205](zotero://open-pdf/library/items/ULGSFCFW?page=205&annotation=26HE3F5U))
 
 ^KEY26HE3F5U
 
-> <span class="highlight" style="background-color: #e56eee50">其实队列没有必要维护窗⼝⾥的所有元素，只需要维护有可能成为窗⼝⾥最⼤值的元素就可以了，同时保证队列⾥ 的元素数值是由⼤到⼩的。</span>  
+> <span class="highlight" style="background-color: #e56eee">其实队列没有必要维护窗⼝⾥的所有元素，只需要维护有可能成为窗⼝⾥最⼤值的元素就可以了，同时保证队列⾥ 的元素数值是由⼤到⼩的。</span>
+> 
 > 队列里首元素的值为当前窗口里的最大值，而队列里的其它元素为未来某个窗口里的最大值 ([p205](zotero://open-pdf/library/items/ULGSFCFW?page=205&annotation=QGAPA28P))
 
 ^KEYQGAPA28P
@@ -396,7 +499,8 @@
 
 ^KEY5Y7CJR59
 
-> <span class="highlight" style="background-color: #e56eee50">使⽤deque最为合适</span>  
+> <span class="highlight" style="background-color: #e56eee">使⽤deque最为合适</span>
+> 
 > deque容器可以查询两端的值，并可进行两端的pop操作 ([p207](zotero://open-pdf/library/items/ULGSFCFW?page=207&annotation=5MJNZIAZ))
 
 ^KEY5MJNZIAZ
@@ -429,7 +533,7 @@
 
 ^KEYQ6KIYX2N
 
-> <span class="highlight" style="background-color: #e56eee50">有的同学可能想了，在队列中 push元素的过程中，还有pop操作呢，感觉不是纯粹的O(n)。 其实，⼤家可以⾃⼰观察⼀下单调队列的实现，nums 中的每个元素最多也就被 push_back 和 pop_back 各⼀ 次，没有任何多余操作，所以整体的复杂度还是 O(n)。</span> ([p209](zotero://open-pdf/library/items/ULGSFCFW?page=209&annotation=8VPKJAPI))
+> <span class="highlight" style="background-color: #e56eee">有的同学可能想了，在队列中 push元素的过程中，还有pop操作呢，感觉不是纯粹的O(n)。 其实，⼤家可以⾃⼰观察⼀下单调队列的实现，nums 中的每个元素最多也就被 push_back 和 pop_back 各⼀ 次，没有任何多余操作，所以整体的复杂度还是 O(n)。</span> ([p209](zotero://open-pdf/library/items/ULGSFCFW?page=209&annotation=8VPKJAPI))
 
 ^KEY8VPKJAPI
 

@@ -12,6 +12,8 @@
 
 [vscode中文件的排列顺序设置](https://blog.csdn.net/jinxianwei1999/article/details/123262099)
 
+[vscode软件设置头文件包含路径的方法](https://blog.csdn.net/wojiaxiaohuang2014/article/details/129905478)
+
 # 插件
 
 [[Keil Assistant插件]]
