@@ -47,7 +47,7 @@
 > libraryCatalog:: 
 > callNumber:: 
 > rights:: 
-> extra:: 🏷️ /reading、/unread、📒、📝 重点
+> extra:: 🏷️ /reading、/unread、📒、📝 标题、📝 重点
 > collection:: [[数据结构]]
 > tags:: #reading #unread 
 > related:: 
@@ -57,7 +57,7 @@
 > date:: NaN
 > dateY:: undefined
 > dateAdded:: 2024-02-28
-> dateModified:: 2024-03-01
+> dateModified:: 2024-03-03
 > 
 > abstract:: 
 
@@ -90,6 +90,41 @@
 > <span style="font-size: 15px;color: gray">📍 undefined-代码随想录</span>
 
 ^KEYrefTitle
+
+> <span class="highlight" style="background-color: #f1983750">3. 移除元素</span> ([p9](zotero://open-pdf/library/items/ULGSFCFW?page=9&annotation=83WDLQLR))  
+> 🏷️ #📝/标题
+
+^KEY83WDLQLR
+
+> <span class="highlight" style="background-color: #e56eee50">双指针法</span>  
+> 双指针法可以完成数组元素的删除和填充：
+> 
+> 1、当需要删除元素时，双指针从数组头部开始遍历；
+> 
+> 2、当需要填充元素时，双指针从数组尾部开始遍历； ([p11](zotero://open-pdf/library/items/ULGSFCFW?page=11&annotation=8GGHGEV7))  
+> 🏷️ #📝/重点
+
+^KEY8GGHGEV7
+
+> <span class="highlight" style="background-color: #e56eee50">定义快慢指针 快指针：寻找新数组的元素 ，新数组就是不含有⽬标元素的数组 慢指针：指向更新 新数组下标的位置</span>  
+> 同相双指针法中快慢指针的作用。
+> 
+> 注：同相双指针法不会改变数组元素的相对位置 ([p11](zotero://open-pdf/library/items/ULGSFCFW?page=11&annotation=B7VFQKBZ))  
+> 🏷️ #📝/重点
+
+^KEYB7VFQKBZ
+
+> <span class="image#e56eee">null</span>同相双指针法 ([p12](zotero://open-pdf/library/items/ULGSFCFW?page=12&annotation=SGTHMDJE))
+
+^KEYSGTHMDJE
+
+> <span class="highlight" style="background-color: #e56eee50">leftIndex <= rightIndex</span>  
+> 为什么要有一个等号？
+> 
+> 当没有等号时，leftIndex 和 rightIndex 最终会停留在 leftIndex == rightIndex 的位置。设想一下，如果该位置 ([p13](zotero://open-pdf/library/items/ULGSFCFW?page=13&annotation=QJUIIWHL))  
+> 🏷️ #📝/重点
+
+^KEYQJUIIWHL
 
 > <span class="highlight" style="background-color: #e56eee50">移除链表元素</span>  
 > 移除链表中的某个节点都要找到该节点的**前一个**节点。 ([p32](zotero://open-pdf/library/items/ULGSFCFW?page=32&annotation=TEIHXTHI))
@@ -252,6 +287,11 @@
 > <span class="image#e56eee">null</span>数组填充类问题的解决方法 ([p105](zotero://open-pdf/library/items/ULGSFCFW?page=105&annotation=2FVER8LT))
 
 ^KEY2FVER8LT
+
+> <span class="highlight" style="background-color: #f1983750">4.翻转字符串⾥的单词</span> ([p107](zotero://open-pdf/library/items/ULGSFCFW?page=107&annotation=4F6DA2FR))  
+> 🏷️ #📝/标题
+
+^KEY4F6DA2FR
 
 > <span class="image#e56eee">null</span> ([p108](zotero://open-pdf/library/items/ULGSFCFW?page=108&annotation=5YTEGA4W))
 
